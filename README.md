@@ -4,7 +4,8 @@
 #
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedrorop110&bg_color=0d1117&color=ffff00&line=4b009b&point=ffff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <div align="center">  
-  
+
+    ![pedrorop110's Streak](https://github-readme-streak-stats.herokuapp.com/?user=as1lo&theme=midnight_purple&hide_border=true)
 
 </div>
 
