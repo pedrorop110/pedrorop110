@@ -22,7 +22,7 @@
 </div>
 
 ## STUDYING IN THIS MOMENT
-<img  height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+<img  height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png">
 
 <div >
   <img align="right" height="100" width="100" src="https://media.giphy.com/media/ICiWg8v0BEiAM/giphy.gif">
