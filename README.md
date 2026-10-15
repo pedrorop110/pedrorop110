@@ -22,7 +22,7 @@
 </div>
 
 ## STUDYING IN THIS MOMENT
-<img width="1280" height="1280" alt="image" src="https://github.com/user-attachments/assets/d3800e86-5328-4a30-8640-d9d978a5a329" />
+<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/d3800e86-5328-4a30-8640-d9d978a5a329" />
 
 
 <div >
