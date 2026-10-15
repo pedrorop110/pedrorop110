@@ -2,8 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFF00&size=35&center=true&vCenter=true&width=1000&lines=HELLO+THERE,+Pedrorop110+here!;+My+name+is+Pedro+Lucas;I'm+18+years+old;I'm+from+Brazil;I'm+begginer+Developer;Be+Welcome!+(ﾉ◕ヮ◕)ﾉ*:･ﾟ✧)](https://git.io/typing-svg)
 #
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedrorop110&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<div align="center">  
+![GitHub Streak](https://herokuapp.com)
+
 
 ![pedrorop110's Streak](https://github-readme-streak-stats.herokuapp.com/?user=pedrorop110&theme=midnight_purple&hide_border=true)
 
