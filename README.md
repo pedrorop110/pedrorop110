@@ -26,7 +26,7 @@
 
 
 <div >
-  <img align="right" height="100" width="100" src="https://media.giphy.com/media/ICiWg8v0BEiAM/giphy.gif">
+  <img height="60" width="60" src="https://media.giphy.com/media/ICiWg8v0BEiAM/giphy.gif">
 </div>
 
 ## BASICS SKILLS
