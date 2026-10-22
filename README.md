@@ -37,7 +37,9 @@
 <img  height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">
 </div>
 
-![Snake](https://raw.githubusercontent.com/pedrorop110/pedrorop110/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/pedrorop110/pedrorop110/output/github-contribution-grid-snake.svg?v=2" alt="Snake">
+</div>
 
 <div align="center">
    <img  height="80" width="80" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDF0cnlhbWd0OTlxbDQ1am1pMzUzN3Ewa2Y1ancxMWw4aHQ4bm1ibiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/E0AAmmXwbZIOWq5s3F/giphy.webp">
