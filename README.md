@@ -22,7 +22,7 @@
 
 ## STUDYING IN THIS MOMENT
 <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/d3800e86-5328-4a30-8640-d9d978a5a329" />
-
+<img width="900" height="420" alt="image" src="https://github.com/user-attachments/assets/2eabb90a-f8f2-457d-b636-ea1f914a53c0" />
 
 <div >
   <img align="right" height="100" width="100" src="https://media.giphy.com/media/ICiWg8v0BEiAM/giphy.gif">
