@@ -22,7 +22,8 @@
 
 ## STUDYING IN THIS MOMENT
 <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/d3800e86-5328-4a30-8640-d9d978a5a329" />
-<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/1d149540-d321-4e6b-8d3b-2c7bee630de8" />
+<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/698e29d8-7e05-4a4b-a08f-043a8cfc9523" />
+
 
 
 
