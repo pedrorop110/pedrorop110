@@ -41,7 +41,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/pedrorop110/pedrorop110/output/github-contribution-grid-snake.svg?v=2" alt="Snake">
+  <img src="https://raw.githubusercontent.com/pedrorop110/pedrorop110/output/github-contribution-grid-snake-dark.svg" alt="Snake">
 </div>
 
 <div align="center">
