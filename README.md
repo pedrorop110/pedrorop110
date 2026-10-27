@@ -21,7 +21,6 @@
 </div>
 
 ## STUDYING IN THIS MOMENT
-<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/d3800e86-5328-4a30-8640-d9d978a5a329" />
 <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/698e29d8-7e05-4a4b-a08f-043a8cfc9523" />
 <img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/bf1c6ff8-f752-441b-b1e8-7f1947cac142" />
 
@@ -35,6 +34,7 @@
 ## SKILLS
 
 <div>
+<img width="60" height="60" alt="image" src="https://github.com/user-attachments/assets/d3800e86-5328-4a30-8640-d9d978a5a329" />
 <img  height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg">
 </div>
 
